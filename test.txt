@@ -1,2 +1,3 @@
 hello world！
 error
+study control
